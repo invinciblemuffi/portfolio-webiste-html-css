@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.pt-3 {
+  padding-top: 1rem;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+header {
+  align-items: center;
+  justify-content: space-between;
+  background: darksalmon;
+}
+
+header h1 {
+  color: whitesmoke;
+}
+
+.logo img {
+  max-width: 6rem;
+  margin-right: 2rem;
+  margin-left: 1rem;
+}
+
+.nav li {
+  padding-right: 1.5rem;
+}
+
+.nav a {
+  color: whitesmoke;
+  font-size: 1.125rem;
+}
+
+.nav a:hover {
+  color: darkslategrey;
+}
+
+.jumbotron img {
+  width: 100%;
+  max-height: 23rem;
+  margin-bottom: -4px;
+}
+
+.about-container {
+  padding: 1rem 1rem 3rem;
+  background: #d3d3dda0;
+}
+
+.about-container h2 {
+  color: darkslategrey;
+}
+
+.about-content {
+  align-items: center;
+}
+
+.about-content img {
+  max-width: 80%;
+}
+
+.about-content p {
+  line-height: 1.5;
+}
+
+.projects-container {
+  padding: 1rem 1rem 3rem;
+  background: #d3d3dd60;
+}
+
+.projects-content {
+  padding-left: 2rem;
+}
+
+.projects-container h2 {
+  color: darkred;
+}
+
+.projects-container ul li {
+  list-style-type: square;
+}
+
+.projects-container ul a {
+  line-height: 1.75;
+  font-size: 1.25rem;
+  color: darkslategrey;
+}
+
+footer {
+  padding: 2rem;
+  background: lemonchiffon;
+}
+
+footer ul {
+  justify-content: center;
+}
+
+footer ul a {
+  color: dimgray;
+  padding-right: 1rem;
+}
