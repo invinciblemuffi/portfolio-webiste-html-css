@@ -34,6 +34,7 @@ header {
   align-items: center;
   justify-content: space-between;
   background: darksalmon;
+  background: url("./wave-haikei.svg") no-repeat;
 }
 
 header h1 {
