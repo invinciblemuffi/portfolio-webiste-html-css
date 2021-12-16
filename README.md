@@ -1,2 +1,3 @@
 # portfolio-webiste-html-css
-Plain HTML, CSS based Portfolio webpage
+- HTML, CSS based Portfolio webpage
+- ES6 Module System files
