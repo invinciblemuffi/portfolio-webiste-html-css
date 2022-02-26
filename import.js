@@ -1,9 +1,9 @@
 // import cube, { findMax } from "./exportVal.js";
-import { findMax } from "./exportVal.js";
+// import { findMax } from "./exportVal.js";
 import { PI } from "./exportVal.js";
 import exportVal from "./exportVal.js";
 
-var cubeVal = cube(3);
+var cubeVal = exportVal.cube(3);
 console.log(cubeVal);
 console.log(PI);
 
