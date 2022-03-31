@@ -92,10 +92,13 @@ CONST, LET, VAR
 /* 
 Operators
 Assignment =
-Comparision == ===
+Comparision ==, ===, >=,<,<=,>
 Arithmetic +,-,*,/,%
 Logical && || !
 Ternary ? :
+Unary +,-
+Exponentiation **
+
 */
 
 /* 
