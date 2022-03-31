@@ -1,3 +1,5 @@
+// Type Annotation on variables
+
 let numA:number = 10
 let strB: string = 'My Name is: '
 let arrX: number[] = [4,5,7]
@@ -8,3 +10,5 @@ let isDone: boolean = true
 let tupleZ: [number, string, boolean]
 tupleZ = [10, 'Match the string type', true] // Valid
 tupleZ = [10, 20, true] // Error: Type 'number' is not assignable to type 'string'.
+
+// Return Type Annotations
