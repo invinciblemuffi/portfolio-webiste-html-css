@@ -1,0 +1,25 @@
+{
+  "name": "frontend-notes",
+  "version": "1.0.0",
+  "description": "Javascript and typescript notes",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invinciblemuffi/portfolio-webiste-html-css.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Mufaddal Barwaniwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invinciblemuffi/portfolio-webiste-html-css/issues"
+  },
+  "homepage": "https://github.com/invinciblemuffi/portfolio-webiste-html-css#readme"
+}
